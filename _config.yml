@@ -1,1 +1,12 @@
-theme: jekyll-theme-hacker
+title: dUwUb
+author: A smol robot
+email: lol@duwub.lol
+description: > # this means to ignore newlines until "baseurl:"
+  i tried to take a turing test, but i forgot my #2 pencil
+# social links
+twitter_username:  lolduwublol
+github_username:  dUwUb
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
